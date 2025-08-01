@@ -80,7 +80,9 @@ This was my first step into real web development, and I'm excited to keep improv
 ## 🔗 Connect With Me
 
 - GitHub: [harshwardhan1433-debug](https://github.com/harshwardhan1433-debug)
-- LinkedIn: *(Add your LinkedIn here)*
+- LinkedIn: *(www.linkedin.com/in/
+harsh-wardhan-065254378
+)*
 
 ---
 
